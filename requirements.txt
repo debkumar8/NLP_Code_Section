@@ -4,4 +4,7 @@ textblob
 nltk
 scikit-learn
 numpy
-
+sentence-transformers
+langchain
+langchain-community
+torch
